@@ -1,0 +1,2 @@
+CryptoBuddy mimics basic AI decision-making by matching user queries to intents using keywords, then applying rules and data lookups to generate responses. 
+It combines static knowledge with real-time data, explains its reasoning, and handles errors, providing a user-friendly and informative experience for crypto beginners.
